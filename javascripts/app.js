@@ -1,6 +1,6 @@
 // Rover Object Goes Here
 // ======================
-
+//it contains js exercise of ironhack
 // ======================
 var rover = {
   direction: "W",
